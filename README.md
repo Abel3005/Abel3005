@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=David's%20github)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=David's%20github&textBg=false&fontColor=ff)
 ### Hi there 👋
 I'm currently studying
 
