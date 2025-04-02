@@ -10,15 +10,8 @@
 😄 so I spend many time to study tech stacks<br><br>
 ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=Abel3005&hide=jupyter%20notebook&layout=compact&show_icons=true&theme=radical)
 
-### Latest writing
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rlaeorjs1001)](https://velog.io/@soyeon207)
-
-
-### Research & Project
+## Research & Project
 ![timeline](./images/projects.png)
-
-
-
 
 
 
